@@ -1,0 +1,64 @@
+
+
+ body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    box-sizing: border-box;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.bg-gray-secondary {
+    background-color: rgba(0, 0, 0, 0.03) !important;
+}
+
+.icon-gray {
+    color: #808080;
+}
+
+.icon-white {
+    color: #ffffff;
+}
+
+.fa-1-5x {
+    font-size: 1.5em;
+}
+
+.btn-hover-blue:hover {
+    color: #0dcaf0!important;
+    border-color: #0dcaf0!important;
+}
+
+.icon-focus-blue:hover {
+    color: rgb(0, 153, 255)!important;
+    outline: rgb(0, 153, 255)!important;
+}
+
+.text-small {
+    font-size: 12.8px;
+    font-weight: 700;
+}
+
+.mr-2 {
+    margin-right: 0.5em;
+}
+
+.btn-gray {
+    background-color: #808080;
+}
+
+.vr-orange {
+    width: 50px; /* Đặt chiều rộng theo nhu cầu của bạn */
+    height: 2px; /* Đặt chiều cao theo nhu cầu của bạn */
+    background-color: red;
+}
+
+.outline-none:focus {
+    outline: none;
+}
