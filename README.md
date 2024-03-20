@@ -1,6 +1,14 @@
 # Hoạt động của Git
 ![github](https://github.com/phuccoderr/github-demo-phuc/assets/124669538/c1d5e7fe-54ab-4d18-a70f-d704b6706c61)
-
+# Câu lệnh up lên git bình thường
+~~~
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/phuccoderr/tesst.git
+git push -u origin main
+~~~
 # Những lệnh Git cơ bản thường dùng
 - Git version:
 ~~~
