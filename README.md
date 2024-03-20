@@ -5,9 +5,10 @@
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
+git branch -M master
 git remote add origin https://github.com/phuccoderr/tesst.git
-git push -u origin main
+git pull --rebase  origin master (nếu cần thiết )
+git push -u origin master
 ~~~
 # Những lệnh Git cơ bản thường dùng
 - Git version:
